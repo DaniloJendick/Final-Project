@@ -1,0 +1,25 @@
+.container{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+    padding-bottom: 30px;
+    margin-top: 60px;
+    background-color: #9ad1c1;
+}
+.container label{
+    display: block;
+}
+.description{
+    margin-bottom: 5px;
+}
+.container form {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,61 @@
+.container {
+    padding-top: 130px;
+    width: 100vw;
+    height: 100vh;
+    background-color: #f9f4ec;
+
+}
+
+.setter {
+
+}
+
+.indexContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.filter {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.form input {
+    width: 250px;
+    font-size: 20px;
+}
+
+.button {
+    border: none;
+    background-color: #9ad1c1;
+    width: 70px;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+}
+.clicked{
+    border: none;
+    background-color: #154437;
+    width: 70px;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+}
+
+.filterMenu {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

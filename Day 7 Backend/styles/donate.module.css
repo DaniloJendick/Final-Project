@@ -1,0 +1,181 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.dropDown {
+    height: 30px;
+    font-size: 20px;
+}
+
+.value {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+}
+
+.donatedBook {
+    display: flex;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
+.donatedImage {
+    height: 115px;
+    width: 90px;
+    border: 1px gray solid;
+}
+
+.status {
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    bottom: -40px;
+    width: 100%;
+
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+}
+
+.searchbar {
+    width: 250px;
+    font-size: 20px;
+}
+
+.button {
+    width: 200px;
+    height: 30px;
+    background-color: #9ad1c1;
+    border: none;
+    border-radius: 3px;
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 24px;
+    margin-top: 24px;
+}
+
+.author {
+    font-size: 15px;
+
+}
+
+.name {
+    font-size: 15px;
+}
+
+
+.relative {
+    margin-left: 10px;
+    position: relative;
+}
+
+.pickupForm {
+    background-color: #9ad1c1;
+    width: 345px;
+    margin-top: 40px;
+    min-height: 450px;
+    border-radius: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.formRelative {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 450px;
+}
+
+.book {
+    margin-bottom: 50px;
+}
+
+.formRelative input {
+    font-size: 20px;
+    width: 100%;
+}
+
+.formRelative p {
+    margin-bottom: 5px;
+    margin-top: 12px;
+}
+
+.pagemove {
+    position: absolute;
+    bottom: 0%;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    border-radius: 7px;
+    border: none;
+    background-color: #2a9184;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.book p {
+    margin-top: 0px;
+}
+
+.addBooks {
+    margin-top: 20px;
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    border-radius: 7px;
+    border: none;
+    background-color: #2a9184;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.confirm {
+    height: 30px;
+    font-size: 20px;
+    color: white;
+    border-radius: 7px;
+    border: none;
+    background-color: #2a9184;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.pageTitle {
+    font-size: 20px;
+    margin-top: 20px !important;
+    margin-bottom: 25px !important;
+}
+
+
+.grid {
+    display: grid;
+    grid-template-columns: 150px 80px;
+    gap: 25%;
+}
+
+.radio {
+    margin-top: 7px;
+    margin-bottom: 7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 100%;
+}
+
+.labels {
+    display: inline;
+}
+
+.pageSubTitle {
+    width: 100%;
+    font-size: 20px;
+}
