@@ -1,0 +1,451 @@
+[
+    {
+        "autor": "Chinua Achebe",
+        "imageLink": "images/things-fall-apart.jpg",
+        "Linguagem": "Português",
+        "ISBN": 422434353,
+        "Páginas": 184,
+        "título": "Quando tudo se desmorona",
+        "Ano de lançamento": 1958,
+        "preço": 5.00
+    },
+    {
+        "autor": "Hans Christian Andersen",
+        "Linguagem": "Portugês",
+        "ISBN": 356281647,
+        "Páginas": 784,
+        "título": "Contos Maravilhosos",
+        "Ano de lançamento": 1836,
+        "preço": 7.07
+    },
+    {
+        "autor": "Dante Alighieri",
+        "imageLink": "images/the-divine-comedy.jpg",
+        "Linguagem": "Português",
+        "ISBN": 475257414,
+        "Páginas": 896,
+        "título": "A comédia divina",
+        "Ano de lançamento": 1315,
+        "preço": 8.10
+    },
+    {
+        "autor": "Unknown",
+        "imageLink": "images/the-epic-of-gilgamesh.jpg",
+        "Linguagem": "Português",
+        "ISBN": 756282544,
+        "Páginas": 160,
+        "título": "A epopeia de Gilgamesh",
+        "Ano de lançamento": -1700,
+        "preço": 6.00
+    },
+    {
+        "autor": "Unknown",
+        "imageLink": "images/the-book-of-job.jpg",
+        "Linguagem": "Português",
+        "ISBN": 968363857,
+        "Páginas": 176,
+        "título": "The Book Of Job",
+        "Ano de lançamento": -600,
+        "preço": 7.20
+    },
+    {
+        "autor": "Unknown",
+        "imageLink": "images/one-thousand-and-one-nights.jpg",
+        "Linguagem": "Português",
+        "ISBN": 857363667,
+        "Páginas": 288,
+        "título": "Mil e uma noites",
+        "Ano de lançamento": 1200,
+        "preço": 7.00
+    },
+    {
+        "autor": "Unknown",
+        "imageLink": "images/njals-saga.jpg",
+        "Linguagem": "Português",
+        "ISBN": 867536758,
+        "Páginas": 384,
+        "título": "Njal's Saga",
+        "Ano de lançamento": 1350,
+        "preço": 5.40
+    },
+    {
+        "autor": "Jane Austen",
+        "imageLink": "images/pride-and-prejudice.jpg",
+        "Linguagem": "Português",
+        "ISBN": 877756777,
+        "Páginas": 226,
+        "título": "Orgulho e preconceito",
+        "Ano de lançamento": 1813,
+        "preço": 5.30
+    },
+    {
+        "autor": "Honor\u00e9 de Balzac",
+        "imageLink": "images/le-pere-goriot.jpg",
+        "Linguagem": "Português",
+        "ISBN": 856729465,
+        "Páginas": 443,
+        "título": "Le Père Goriot",
+        "Ano de lançamento": 1835,
+        "preço": 6.99
+    },
+    {
+        "autor": "Samuel Beckett",
+        "imageLink": "images/molloy-malone-dies-the-unnamable.jpg",
+        "Linguagem": "Português",
+        "ISBN": 978674686,
+        "Páginas": 256,
+        "título": "Molloy, Malone Dies, The Unnamable, the trilogy",
+        "Ano de lançamento": 1952,
+        "preço": 7.20
+    },
+    {
+        "autor": "Giovanni Boccaccio",
+        "imageLink": "images/the-decameron.jpg",
+        "Linguagem": "Português",
+        "ISBN": 958575747,
+        "Páginas": 1024,
+        "título": "Decameron",
+        "Ano de lançamento": 1351,
+        "preço": 6.10
+    },
+    {
+        "autor": "Jorge Luis Borges",
+        "imageLink": "images/ficciones.jpg",
+        "Linguagem": "Português",
+        "ISBN": 654868495,
+        "Páginas": 224,
+        "título": "Ficções",
+        "Ano de lançamento": 1965,
+        "preço": 5.00
+    },
+    {
+        "autor": "Emily Bronte",
+        "imageLink": "images/wuthering-heights.jpg",
+        "Linguagem": "Português",
+        "ISBN": 659753678,
+        "Páginas": 342,
+        "título": "O monte dos vendavais",
+        "Ano de lançamento": 1847,
+        "preço": 7.99
+    },
+    {
+        "autor": "Albert Camus",
+        "imageLink": "images/l-etranger.jpg",
+        "Linguagem": "Português",
+        "ISBN": 475796468,
+        "Páginas": 185,
+        "título": "O estranho",
+        "Ano de lançamento": 1942,
+        "preço": 5.90
+    },
+    {
+        "autor": "Paul Celan",
+        "imageLink": "images/poems-paul-celan.jpg",
+        "Linguagem": "Português",
+        "ISBN": 983678699,
+        "Páginas": 320,
+        "título": "Poemas",
+        "Ano de lançamento": 1952,
+        "preço": 6.30
+    },
+    {
+        "autor": "Eckhart Tolle",
+        "imageLink": "images/voyage-au-bout-de-la-nuit.jpg",
+        "Linguagem": "Português",
+        "ISBN": 958737975,
+        "Páginas": 236,
+        "título": "O poder do agora.jpeg",
+        "Ano de lançamento": 1997,
+        "preço": 7.70
+    },
+    {
+        "autor": "Miguel de Cervantes",
+        "imageLink": "images/don-quijote-de-la-mancha.jpg",
+        "Linguagem": "Português",
+        "ISBN": 937869644,
+        "Páginas": 1056,
+        "título": "Don Quijote De La Mancha",
+        "Ano de lançamento": 1610,
+        "preço": 5.10
+    },
+    {
+        "autor": "Geoffrey Chaucer",
+        "imageLink": "images/the-canterbury-tales.jpg",
+        "Linguagem": "Português",
+        "ISBN": 987385768,
+        "Páginas": 544,
+        "título": "Os contos de Cantuária",
+        "Ano de lançamento": 1450,
+        "preço": 5.00
+    },
+    {
+        "autor": "Anton Chekhov",
+        "imageLink": "images/stories-of-anton-chekhov.jpg",
+        "Linguagem": "Português",
+        "ISBN": 987567489,
+        "Páginas": 194,
+        "título": "Contos",
+        "Ano de lançamento": 1886,
+        "preço": 6.20
+    },
+    {
+        "autor": "Joseph Conrad",
+        "imageLink": "images/nostromo.jpg",
+        "Linguagem": "Português",
+        "ISBN": 195768375,
+        "Páginas": 320,
+        "título": "Nostromo",
+        "Ano de lançamento": 1904,
+        "preço": 5.60
+    },
+    {
+        "autor": "Charles Dickens",
+        "imageLink": "images/great-expectations.jpg",
+        "Linguagem": "Português",
+        "ISBN": 596758464,
+        "Páginas": 194,
+        "título": "Grandes esperanças",
+        "Ano de lançamento": 1861,
+        "preço": 7.04
+    },
+    {
+        "autor": "Denis Diderot",
+        "imageLink": "images/jacques-the-fatalist.jpg",
+        "Linguagem": "Português",
+        "ISBN": 609358955,
+        "Páginas": 596,
+        "título": "Jacques the Fatalist",
+        "Ano de lançamento": 1796,
+        "preço": 9.00
+    },
+    {
+        "autor": "Alfred D\u00f6blin",
+        "imageLink": "images/berlin-alexanderplatz.jpg",
+        "Linguagem": "Português",
+        "ISBN": 847585868,
+        "Páginas": 600,
+        "título": "Berlin Alexanderplatz",
+        "Ano de lançamento": 1929,
+        "preço": 5.70
+    },
+    {
+        "autor": "Fyodor Dostoevsky",
+        "imageLink": "images/crime-and-punishment.jpg",
+        "Linguagem": "Português",
+        "ISBN": 948474737,
+        "Páginas": 551,
+        "título": "Crime e punição",
+        "Ano de lançamento": 1866,
+        "preço": 6.06
+    },
+    {
+        "autor": "Fyodor Dostoevsky",
+        "imageLink": "images/the-idiot.jpg",
+        "Linguagem": "Português",
+        "ISBN": 928747737,
+        "Páginas": 656,
+        "título": "O idiota",
+        "Ano de lançamento": 1869,
+        "preço": 6.01
+    },
+    {
+        "autor": "Fyodor Dostoevsky",
+        "imageLink": "images/the-possessed.jpg",
+        "Linguagem": "Português",
+        "ISBN": 857474747,
+        "Páginas": 768,
+        "título": "The Possessed",
+        "Ano de lançamento": 1872,
+        "preço": 5.00
+    },
+    {
+        "autor": "Fyodor Dostoevsky",
+        "imageLink": "images/the-brothers-karamazov.jpg",
+        "Linguagem": "Português",
+        "ISBN": 987565666,
+        "Páginas": 824,
+        "título": "Os irmãos Karamazov",
+        "Ano de lançamento": 1880,
+        "preço": 8.08
+    },
+    {
+        "autor": "George Eliot",
+        "imageLink": "images/middlemarch.jpg",
+        "Linguagem": "Português",
+        "ISBN": 985968745,
+        "Páginas": 800,
+        "título": "Middlemarch",
+        "Ano de lançamento": 1871,
+        "preço": 6.06
+    },
+    {
+        "autor": "Ralph Ellison",
+        "imageLink": "images/invisible-man.jpg",
+        "Linguagem": "Português",
+        "ISBN": 234542343,
+        "Páginas": 581,
+        "título": "Homem invsível",
+        "Ano de lançamento": 1952,
+        "preço": 7.10
+    },
+    {
+        "autor": "Euripides",
+        "imageLink": "images/medea.jpg",
+        "Linguagem": "Português",
+        "ISBN": 287483651,
+        "Páginas": 104,
+        "título": "Medea",
+        "Ano de lançamento": -431,
+        "preço": 5.09
+    },
+    {
+        "autor": "William Faulkner",
+        "imageLink": "images/absalom-absalom.jpg",
+        "Linguagem": "Português",
+        "ISBN": 334556434,
+        "Páginas": 313,
+        "título": "Absalom, Absalom!",
+        "Ano de lançamento": 1936,
+        "preço": 8.05
+    },
+    {
+        "autor": "William Faulkner",
+        "imageLink": "images/the-sound-and-the-fury.jpg",
+        "Linguagem": "Português",
+        "ISBN": 765678934,
+        "Páginas": 326,
+        "título": "Som e fúria",
+        "Ano de lançamento": 1929,
+        "preço": 5.40
+    },
+    {
+        "autor": "Gustave Flaubert",
+        "imageLink": "images/madame-bovary.jpg",
+        "Linguagem": "Português",
+        "ISBN": 346578923,
+        "Páginas": 528,
+        "título": "Madame Bovary",
+        "Ano de lançamento": 1857,
+        "preço": 5.06
+    },
+    {
+        "autor": "Gustave Flaubert",
+        "imageLink": "images/l-education-sentimentale.jpg",
+        "Linguagem": "Português",
+        "ISBN": 235645454,
+        "Páginas": 606,
+        "título": "A educação sentimental",
+        "Ano de lançamento": 1869,
+        "preço": 7.00
+    },
+    {
+        "autor": "Federico Garc\u00eda Lorca",
+        "imageLink": "images/gypsy-ballads.jpg",
+        "Linguagem": "Português",
+        "ISBN": 92846573,
+        "Páginas": 218,
+        "título": "Gypsy Ballads",
+        "Ano de lançamento": 1928,
+        "preço": 6.10
+    },
+    {
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "imageLink": "images/one-hundred-Ano de lançamentos-of-solitude.jpg",
+        "Linguagem": "Português",
+        "ISBN": 283628364,
+        "Páginas": 417,
+        "título": "Cem anos de solidão",
+        "Ano de lançamento": 1967,
+        "preço": 5.08
+    },
+    {
+        "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+        "imageLink": "images/love-in-the-time-of-cholera.jpg",
+        "Linguagem": "Português",
+        "ISBN": 676746353,
+        "Páginas": 368,
+        "título": "Amor em tempos de cólera",
+        "Ano de lançamento": 1985,
+        "preço": 5.06
+    },
+    {
+        "autor": "Johann Wolfgang von Goethe",
+        "imageLink": "images/faust.jpg",
+        "Linguagem": "Português",
+        "ISBN": 827464732,
+        "Páginas": 158,
+        "título": "Fausto",
+        "Ano de lançamento": 1832,
+        "preço": 7.00
+    },
+    {
+        "autor": "Nikolai Gogol",
+        "imageLink": "images/dead-souls.jpg",
+        "Linguagem": "Português",
+        "ISBN": 2846567262,
+        "Páginas": 432,
+        "título": "Almas mortas",
+        "Ano de lançamento": 1842,
+        "preço": 5.70
+    },
+    {
+        "autor": "G\u00fcnter Grass",
+        "imageLink": "images/the-tin-drum.jpg",
+        "Linguagem": "Português",
+        "ISBN": 435187768,
+        "Páginas": 600,
+        "título": "O tambor de lata",
+        "Ano de lançamento": 1959,
+        "preço": 9.00
+    },
+    {
+        "autor": "Jo\u00e3o Guimar\u00e3es Rosa",
+        "imageLink": "images/the-devil-to-pay-in-the-backlands.jpg",
+        "Linguagem": "Portugues",
+        "ISBN": 764528134,
+        "Páginas": 494,
+        "título": "Grande sertão: Veredas",
+        "Ano de lançamento": 1956,
+        "preço": 8.00
+    },
+    {
+        "autor": "Knut Hamsun",
+        "imageLink": "images/hunger.jpg",
+        "Linguagem": "Português",
+        "ISBN": 284625151,
+        "Páginas": 176,
+        "título": "Hunger",
+        "Ano de lançamento": 1890,
+        "preço": 5.20
+    },
+    {
+        "autor": "Ernest Hemingway",
+        "imageLink": "images/the-old-man-and-the-sea.jpg",
+        "Linguagem": "Português",
+        "ISBN": 375637362,
+        "Páginas": 128,
+        "título": "O velho e o mar",
+        "Ano de lançamento": 1952,
+        "preço": 8.50
+    },
+    {
+        "autor": "Homer",
+        "imageLink": "images/the-iliad-of-homer.jpg",
+        "language": "Português",
+        "ISBN": 437961304,
+        "Páginas": 608,
+        "título": "Iliad",
+        "Ano de lançamento": -735,
+        "preço": 7.00
+    },
+    {
+        "autor": "Homer",
+        "imageLink": "images/the-odyssey-of-homer.jpg",
+        "Linguagem": "Português",
+        "ISBN": 21624482,
+        "Páginas": 374,
+        "título": "Odisseia",
+        "Ano de lançamento": -800,
+        "preço": 5.00
+    }
+]
