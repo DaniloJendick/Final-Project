@@ -1,0 +1,362 @@
+[
+  {
+    "_id": "628c95f107dc558cf3e1e7bd",
+    "price": 5.00,
+    "size": "grande",
+    "quantity": 4,
+    "name": "Quando tudo se desmorona",
+    "pathImage": "Quando-tudo-se-desmorona.jpeg"
+  },
+  {
+    "_id": "628c95f1e5cbb90619b8fabd",
+    "price": 7.07,
+    "size": "pequena",
+    "quantity": 3,
+    "name": "Contos Maravilhosos",
+    "pathImage": "Contos-Maravilhosos.jpeg"
+  },
+  {
+    "_id": "628c95f1728d8dba23eedeca",
+    "price": 8.10,
+    "size": "pequena",
+    "quantity": 1,
+    "name": "A comédia divina",
+    "pathImage": "A-comédia-divina.jpeg"
+  },
+  {
+    "_id": "628c95f174636e37c4bbee42",
+    "price": 6.00,
+    "size": "grande",
+    "quantity": 4,
+    "name": "A epopeia Gilgamesh",
+    "pathImage": "A-epopeia-Gilgamesh.jpeg"
+  },
+  {
+    "_id": "628c95f1280d5723deb5002c",
+    "price": 7.20,
+    "size": "pequena",
+    "quantity": 4,
+    "name": "The Book Of Job",
+    "pathImage": "The-Book-Of-Job.jpeg"
+  },
+  {
+    "_id": "628c95f1937a9d9ce8852da4",
+    "price": 7.00,
+    "size": "media",
+    "quantity": 1,
+    "name": "Mil e uma noites",
+    "pathImage": "Mil-e-uma-noites.jpeg"
+  },
+  {
+    "_id": "628c95f11ded6de9bbedcea0",
+    "price": 5.40,
+    "size": "grande",
+    "quantity": 2,
+    "name": "Njal's Saga",
+    "pathImage": "Njal's-Saga.jpeg"
+  },
+  {
+    "_id": "628c95f1d081fc8feef42943",
+    "price": 5.30,
+    "size": "grande",
+    "quantity": 1,
+    "name": "Orgulho e preconceito",
+    "pathImage": "Orgulho-e-preconceito.jpeg"
+  },
+  {
+    "_id": "628c95f12e8b8298d50f55a7",
+    "price": 6.99,
+    "size": "media",
+    "quantity": 2,
+    "name": "Le Père Goriot",
+    "pathImage": "Le-Père-Goriot.jpeg"
+  },
+  {
+    "_id": "628c95f127bef03af82295a6",
+    "price": 7.20,
+    "size": "grande",
+    "quantity": 1,
+    "name": "Molloy, Malone Dies, The Unnamable, the trilogy",
+    "pathImage": "Molloy-Malone Dies-The-Unnamable-the-trilogy.jpeg"
+  },
+  {
+    "_id": "628c95f1914a7c28d6626206",
+    "price": 6.10,
+    "size": "grande",
+    "quantity": 1,
+    "name": "Decameron",
+    "pathImage": "Decameron.jpeg"
+  },
+  {
+    "_id": "628c95f10bad15f10578508f",
+    "price": 5.00,
+    "size": "pequena",
+    "quantity": 3,
+    "name": "Ficções",
+    "pathImage": "Ficções.jpeg"
+  },
+  {
+    "_id": "628c95f1ca14451e3afcfa0f",
+    "price": 7.99,
+    "size": "grande",
+    "quantity": 1,
+    "name": "O monte dos vendavais",
+    "pathImage": "O-monte-dos-vendavais.jpeg"
+  },
+  {
+    "_id": "628c95f1466b8f7ab88a4812",
+    "price": 5.90,
+    "size": "media",
+    "quantity": 4,
+    "name": "O estranho",
+    "pathImage": "O-estranho.jpeg"
+  },
+  {
+    "_id": "628c95f1f9d6d43472081b41",
+    "price": 6.30,
+    "size": "grande",
+    "quantity": 2,
+    "name": "Poemas",
+    "pathImage": "Poemas.jpeg"
+  },
+  {
+    "_id": "628c95f11ddbc9a7f298946b",
+    "price": 7.70,
+    "size": "grande",
+    "quantity": 1,
+    "name": "O poder do agora",
+    "pathImage": "O-poder-do-agora.jpeg"
+  },
+  {
+    "_id": "628c95f1c11e01ad23fb02da",
+    "price": 5.10,
+    "size": "grande",
+    "quantity": 2,
+    "name": "Don Quijote De La Mancha",
+    "pathImage": "Don-Quijote-De-La-Mancha.jpeg"
+  },
+  {
+    "_id": "628c95f1ba340fa9a5c925dc",
+    "price": 5.00,
+    "size": "pequena",
+    "quantity": 4,
+    "name": "Os contos de Cantuária",
+    "pathImage": "Os-contos-de-Cantuária.jpeg"
+  },
+  {
+    "_id": "628c95f16470f64750868324",
+    "price": 6.20,
+    "size": "pequena",
+    "quantity": 4,
+    "name": "Contos",
+    "pathImage": "Contos.jpeg"
+  },
+  {
+    "_id": "628c95f10af21e0baea9aa98",
+    "price": 5.60,
+    "size": "grande",
+    "quantity": 1,
+    "name": "Nostromo",
+    "pathImage": "Nostromo.jpeg"
+  },
+  {
+    "_id": "628c95f179e45c9dbe6c76b6",
+    "price": 7.04,
+    "size": "media",
+    "quantity": 2,
+    "name": "Grandes esperanças",
+    "pathImage": "Grandes-esperanças.jpeg"
+  },
+  {
+    "_id": "628c95f14f23fc4a23832f36",
+    "price": 9.00,
+    "size": "grande",
+    "quantity": 1,
+    "name": "Jacques the Fatalist",
+    "pathImage": "Jacques-the-Fatalist.jpeg"
+  },
+  {
+    "_id": "628c95f13ea0cc1a7b08d5ee",
+    "price": 5.70,
+    "size": "media",
+    "quantity": 2,
+    "name": "Berlin Alexanderplatz",
+    "pathImage": "Berlin-Alexanderplatz.jpeg"
+  },
+  {
+    "_id": "628c95f16503518c3d883d7d",
+    "price": 6.06,
+    "size": "pequena",
+    "quantity": 3,
+    "name": "Crime e punição",
+    "pathImage": "Crime-e-punição.jpeg"
+  },
+  {
+    "_id": "628c95f114a86923d325266e",
+    "price": 6.01,
+    "size": "pequena",
+    "quantity": 1,
+    "name": "O idiota",
+    "pathImage": "O-idiota.jpeg"
+  },
+  {
+    "_id": "628c95f18f1ba2ef0a6ab150",
+    "price": 5.00,
+    "size": "media",
+    "quantity": 1,
+    "name": "The Possessed",
+    "pathImage": "The-Possessed.jpeg"
+  },
+  {
+    "_id": "628c95f1626c739b7f4bb589",
+    "price": 8.08,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Os irmãos Karamazov",
+    "pathImage": "Os-irmãos-Karamazov.jpeg"
+  },
+  {
+    "_id": "628c95f1c17f99ac5c77fcf3",
+    "price": 6.06,
+    "size": "media",
+    "quantity": 4,
+    "name": "Middlemarch",
+    "pathImage": "Middlemarch.jpeg"
+  },
+  {
+    "_id": "628c95f1beff14d06c1afbf0",
+    "price": 7.10,
+    "size": "media",
+    "quantity": 5,
+    "name": "Homem invsível",
+    "pathImage": "Homem-invsível.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 5.09,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Medea",
+    "pathImage": "Medea.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 8.05,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Absalom, Absalom!",
+    "pathImage": "Absalom-Absalom!.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 5.40,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Som e fúria",
+    "pathImage": "Som-e-fúria.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 5.06,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Madame Bovary",
+    "pathImage": "Madame-Bovary.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 7.00,
+    "size": "grande",
+    "quantity": 5,
+    "name": "A educação sentimental",
+    "pathImage": "A-educação-sentimental.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 6.10,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Gypsy Ballads",
+    "pathImage": "Gypsy-Ballads.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 5.08,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Cem anos de solidão",
+    "pathImage": "Cem-anos-de-solidão.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 5.06,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Amor em tempos de cólera",
+    "pathImage": "Amor-em-tempos-de-cólera.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 7.00,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Fausto",
+    "pathImage": "Fausto.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 5.70,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Almas mortas",
+    "pathImage": "Almas-mortas.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 9.00,
+    "size": "grande",
+    "quantity": 5,
+    "name": "O tambor de lata",
+    "pathImage": "O-tambor-de-lata.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 8.00,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Grande sertão: Veredas",
+    "pathImage": "Grande-sertão-Veredas.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 5.20,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Hunger",
+    "pathImage": "Hunger.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 8.50,
+    "size": "grande",
+    "quantity": 5,
+    "name": "O velho e o mar",
+    "pathImage": "O-velho-e-o-mar.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 7.00,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Iliad",
+    "pathImage": "Iliad.jpeg"
+  },
+  {
+    "_id": "628c95f10e845648b40d5fe7",
+    "price": 5.00,
+    "size": "grande",
+    "quantity": 5,
+    "name": "Odisseia",
+    "pathImage": "Odisseia.jpeg"
+  }
+]
