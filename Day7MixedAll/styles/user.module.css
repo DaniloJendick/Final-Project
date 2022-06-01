@@ -1,0 +1,107 @@
+.box {
+    margin-top: 70px;
+    width: 80%;
+
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.title {
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+.name {
+    margin-bottom: 20px;
+    display: flex;
+    height: 15px;
+    margin-top: 0px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.name p {
+    margin-top: 0px;
+}
+
+.email {
+    margin-bottom: 20px;
+    display: flex;
+    height: 15px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.email p {
+    margin-top: 0px;
+}
+
+.phone {
+    margin-bottom: 20px;
+    display: flex;
+    height: 15px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.phone p {
+    margin-top: 0px;
+}
+
+.password {
+    margin-bottom: 20px;
+    display: flex;
+    height: 15px;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.password p {
+    margin-top: 0px;
+}
+
+.credits {
+    margin-top: 20px;
+    width: 130px;
+    height: 30px;
+    border: none;
+    background-color: #2a9184;
+    font-size: 18px;
+    border-radius: 7px;
+    color: white;
+}
+
+.name button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.email button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.phone button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.password button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+}

@@ -1,0 +1,55 @@
+.genreMenu {
+    width: 330px;
+    background-color: #9ad1c1;
+    position: absolute;
+    top: 225px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    row-gap: 0px;
+    border-radius: 3px;
+    z-index: 10;
+}
+
+.priceMenu {
+    width: 100px;
+    background-color: #9ad1c1;
+    position: absolute;
+    top: 225px;
+    left: 8%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 3px;
+    z-index: 10;
+}
+
+.priceMenu button,
+.stateMenu button {
+    margin-bottom: 0px;
+    border: none;
+    height: 30px;
+    background-color: rgba(1, 1, 1, 0);
+}
+
+.stateMenu {
+    width: 150px;
+    background-color: #9ad1c1;
+    position: absolute;
+    left: 43%;
+    top: 225px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 3px;
+    z-index: 10;
+}
+
+.genreMenu button {
+    margin-bottom: 0px;
+    border: none;
+    height: 30px;
+    background-color: rgba(1, 1, 1, 0);
+}
+
+.button {
+    font-size: 18px;
+    color: white;
+}
