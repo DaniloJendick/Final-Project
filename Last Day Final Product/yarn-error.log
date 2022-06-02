@@ -1,0 +1,46 @@
+Arguments: 
+  /Users/bytes4future/.nvm/versions/node/v16.1.0/bin/node /Users/bytes4future/.nvm/versions/node/v16.1.0/bin/yarn
+
+PATH: 
+  /Users/bytes4future/.nvm/versions/node/v16.1.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/bytes4future/.homebrew/bin:/Users/bytes4future/Downloads/Visual Studio Code.app/Contents/Resources/app/bin
+
+Yarn version: 
+  1.22.18
+
+Node version: 
+  16.1.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: EPERM: operation not permitted, scandir '/Users/bytes4future/Desktop'
+
+npm manifest: 
+  {
+    "name": "desafio_final",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    },
+    "dependencies": {
+      "mongodb": "^4.6.0",
+      "next": "^12.1.6",
+      "react": "^18.1.0",
+      "react-dom": "^18.1.0"
+    },
+    "devDependencies": {
+      "eslint": "8.16.0",
+      "eslint-config-next": "12.1.6"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

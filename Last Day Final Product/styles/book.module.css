@@ -1,0 +1,81 @@
+.image img {
+
+    width: 100px;
+    height: 120px;
+
+}
+
+.screaming {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.button {
+    position: absolute;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.image {
+
+    width: 100px;
+    height: 120px;
+
+}
+
+.book {
+    width: 100px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+}
+
+.book * {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.storeMain {
+    display: flex;
+    width: 100vw;
+    justify-content: center;
+}
+
+.trash {
+    height: 30px;
+    width: 15px;
+}
+
+.storeBooks {
+    width: 260px;
+    display: grid;
+    row-gap: 40px;
+    column-gap: 60px;
+    grid-template-columns: 100px 100px;
+}
+
+.name {
+    font-size: 16px;
+}
+
+.author {
+    font-size: 14px;
+}
+
+.state {
+    font-size: 14px;
+}
+
+.price {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    right: 0%;
+    font-size: 16px;
+}
